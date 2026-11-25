@@ -216,10 +216,6 @@ export default function modernUI(update, parameters) {
                     value: 'enablePreviews'
                 },
                 {
-                    name: t('settings.options.misc.options.ttWelcomeMsg'),
-                    value: 'showWelcomeToast',
-                },
-                {
                     name: t('settings.options.misc.options.guestSignInReminder'),
                     value: 'enableSigninReminder'
                 },
